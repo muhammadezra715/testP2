@@ -1,0 +1,1 @@
+web: streamlit run belajar.py --server.port=$PORT --server.address=0.0.0.0
